@@ -12,18 +12,6 @@ body {
     position: relative;
 }
 
-.hero > div > div {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    align-items: center;
-    align-content: flex-end;
-    height: 100vh;
-    max-width: 600px;
-    padding: 0 0 48px 0;
-}
-
-
 
 .hero picture {
     display: block;
