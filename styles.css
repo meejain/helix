@@ -23,6 +23,14 @@ body {
     padding: 0 0 48px 0;
 }
 
+.hero h1, h2 {
+    z-index: 2;
+    position: relative;
+    background: #FFF;
+    padding: 6px 24px;
+    margin: 0;
+    flex: 1 1 auto;
+}
 
 .hero picture {
     display: block;
@@ -34,7 +42,7 @@ body {
 }
 
 .hero img {
-    object-fit: none;
+    object-fit: contain;
     width: 70%;
     height: 70%;
 }
