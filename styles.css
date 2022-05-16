@@ -45,7 +45,7 @@ body {
 }
 
 .hero img {
-    object-fit: none;
+    object-fit: scale-down;
     width: 50%;
     height: 50%;
 }
