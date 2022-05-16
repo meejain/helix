@@ -42,7 +42,7 @@ body {
 }
 
 .hero img {
-    object-fit: contain;
+    object-fit: fill;
     width: 70%;
     height: 70%;
 }
