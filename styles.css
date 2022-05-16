@@ -25,24 +25,16 @@ body {
 
 .hero h1, h2 {
     z-index: 2;
-    position: relative;
+    position: static;
     background: #FFF;
     padding: 6px 24px;
     margin: 0;
     flex: 1 1 auto;
 }
 
-.hero picture {
-    display: block;
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-}
 
 .hero img {
-    object-fit: contain;
+    object-fit: none;
     width: 70%;
     height: 70%;
 }
