@@ -23,17 +23,6 @@ body {
   color: white;
     
 
-.hero > div > div {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    align-items: center;
-    align-content: flex-end;
-    height: 50vh;
-    max-width: 300px;
-    padding: 0 0 48px 0;
-}
-
 .hero picture {
     display: block;
     position: absolute;
