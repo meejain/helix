@@ -8,9 +8,11 @@ body {
     margin: 0;
 }
 
+
 .hero {
     position: relative;
 }
+
 
 .hero-text {
   text-align: center;
@@ -20,14 +22,6 @@ body {
   transform: translate(-50%, -50%);
   color: white;
     
-.hero h1, h2 {
-    z-index: 2;
-    position: static;
-    background: #FFF;
-    padding: 6px 24px;
-    margin: 0;
-    flex: 1 1 auto;
-}
 
 .hero > div > div {
     display: flex;
